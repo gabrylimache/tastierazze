@@ -2,6 +2,7 @@
 title = 'I Generi'
 date = 2025-04-13
 draft = false
+hideFromHomePage = true
 +++
 
 Durante quei 4 anni di leggerezza iniziali studiavo classica, ovviamente fino ad un certo punto, anche perché dovevo imparare le basi ancora ed ero un ragazzino svogliato.

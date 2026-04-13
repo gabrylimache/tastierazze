@@ -2,6 +2,7 @@
 title = 'Gonza come identità'
 date = 2025-04-13
 draft = false
+hideFromHomePage = true
 +++
 
 Ciao!
