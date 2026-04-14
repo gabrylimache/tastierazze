@@ -4,11 +4,23 @@ title = "Things That I Love"
 theme = "PaperMod"
 
 [params]
-  homeInfoParams = {Title = "Ciao! 👋", Content = "Benvenuto nel mio blog"}
+  homeInfoParams = {Title = "Ciao! Sono Gonza", Content = "Benvenuto tra qualche mio pensiero"}
   ShowReadingTime = true
   ShowShareButtons = false
   ShowPostNavLinks = true
   mainSections = ["posts"]
+  
+  [[params.socialIcons]]
+    name = "instagram"
+    url = "https://instagram.com/gabry_gonza"
+  [[params.socialIcons]]
+    name = "tiktok"
+    url = "https://tiktok.com/@gabry_gonza"
+  [[params.socialIcons]]
+    name = "cv"
+    url = "https://drive.google.com/file/d/1qLZ2NNs8JJjavq-xOL5pXpzdpJWixP58/view?usp=drive_link"
+
+
 
 [menu]
   [[menu.main]]
