@@ -1,6 +1,6 @@
-baseURL = "https://gabrylimache.github.io/"
+baseURL = "https://gabrylimache.github.io/tastierazze"
 languageCode = "it-it"
-title = "Things That I Love"
+title = "Tastierazze"
 theme = "PaperMod"
 
 [params]
