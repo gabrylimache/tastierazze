@@ -7,9 +7,9 @@ mainSections = ["posts"]
 [params]
   
   [params.homeInfoParams]
-  Title = "Musica, appunti e sperimentazione"
+  Title = "Ciao! Sono Gonza"
   Content = """
-  Uno spazio personale dove raccolgo appunti, riflessioni ed esperimenti in ambito musicale: suoni, patch, workflow e tutto ciò che mi aiuta a creare, ricordare e migliorare nel tempo.
+  Benvenuti nel mio blog, uno spazio personale dove raccolgo appunti, riflessioni ed esperimenti in ambito musicale: suoni, patch, workflow e tutto ciò che mi aiuta a creare, ricordare e migliorare nel tempo.
 
   *Non sono un esperto: scrivo per imparare, sperimentare e condividere il mio percorso.*
   """
