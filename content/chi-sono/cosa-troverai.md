@@ -22,4 +22,4 @@ In questo blog voglio infatti raccogliere:
 - suggerimenti su come usarle;
 - idee su come modificarle e adattarle al live.
 
-Tutto questo troverà spazio nella sezione [**Patches**](../../patches/), che diventerà una sorta di archivio personale — e, spero, anche qualcosa di utile per chi passerà di qui.
+Tutto questo troverà spazio nella sezione [**Patches**](../../patches/), che diventerà una sorta di archivio personale spero, anche qualcosa di utile per chi passerà di qui.

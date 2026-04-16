@@ -7,7 +7,7 @@ weight = 2
 +++
 
 Pur avendo iniziato il mio percorso musicale fin da piccolo, il pianoforte non è stato la prima scelta.  
-Per qualche anno ho cantato nel coro di voci bianche della mia città, poi ho provato la chitarra. Solo in seguito — quando avevo ormai capito che nessuna delle due faceva davvero per me — ho iniziato a prendere lezioni di pianoforte.
+Per qualche anno ho cantato nel coro di voci bianche della mia città, poi ho provato la chitarra. Solo in seguito, quando avevo ormai capito che nessuna delle due faceva davvero per me, ho iniziato a prendere lezioni di pianoforte.
 
 I primi quattro anni non sono stati il massimo.  
 Mi sono sicuramente serviti per capire cosa mi piacesse e cosa no, ma tra poco impegno e altre problematiche non sono mai andato oltre il minimo indispensabile.  

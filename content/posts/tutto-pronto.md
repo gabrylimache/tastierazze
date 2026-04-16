@@ -14,7 +14,7 @@ Questo primo post sarà breve, ma tengo comunque a spiegare perché questo proge
 Non avrei mai pensato di voler scrivere un blog.  
 L’idea è nata da un’esigenza molto semplice: ricordarmi come usare **i miei stessi suoni** nelle varie canzoni.
 
-Da tempo utilizzo discussioni e piattaforme online — come [Soundmondo](https://soundmondo.yamahasynth.com/) per Yamaha, Reddit e video su YouTube — per copiare o prendere spunto da suoni già creati e adattarli alle mie esigenze.  
+Da tempo utilizzo discussioni e piattaforme online come [Soundmondo](https://soundmondo.yamahasynth.com/) per Yamaha, Reddit e video su YouTube per copiare o prendere spunto da suoni già creati e adattarli alle mie esigenze.  
 Avendo però un numero crescente di *patch*, è diventato evidente quanto sarebbe utile creare una sorta di guida, anche solo per me stesso, su come gestirle e utilizzarle.
 
 L’obiettivo è semplice:  

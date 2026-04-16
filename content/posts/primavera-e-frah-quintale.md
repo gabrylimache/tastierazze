@@ -30,8 +30,8 @@ Le grafiche, a mio parere, erano stupende e perfettamente in linea con l’ident
 Giocavano molto con i drop delle canzoni: ad esempio in *“Chiodi”* lo sfondo si riempiva progressivamente di chiodi per tutta la durata del brano, fino a sembrare un barattolo colmo, per poi crollare e scorrere come pioggia sul drop finale.
 
 Anche il lavoro delle luci mi è piaciuto molto.  
-C’era un impianto mobile ad anello che si muoveva su e giù a seconda dei momenti, rendendo il tutto più dinamico e particolare. Lo stesso vale per gli schermi, su cui gli artisti venivano proiettati con effetti visivi sempre molto curati — come il fisheye nei brani con Coez, che richiamava lo stile dell’album che hanno fatto insieme.
+C’era un impianto mobile ad anello che si muoveva su e giù a seconda dei momenti, rendendo il tutto più dinamico e particolare. Lo stesso vale per gli schermi, su cui gli artisti venivano proiettati con effetti visivi sempre molto curati, come il fisheye nei brani con Coez, che richiamava lo stile dell’album che hanno fatto insieme.
 
 In generale sono rimasto molto contento dello spettacolo.  
-Non c’erano parti strumentali o tecnicismi musicali particolarmente complessi — il genere è quello che è — ma l’intero show era davvero coinvolgente e ti faceva vivere il momento senza sforzo.  
+Non c’erano parti strumentali o tecnicismi musicali particolarmente complessi, il genere è quello che è, ma l’intero show era davvero coinvolgente e ti faceva vivere il momento senza sforzo.  
 Considerando anche il peso che Frah Quintale ha nel panorama italiano, lo spettacolo è stato una sequenza di hit una dopo l’altra, ed ha funzionato proprio per questo.
